@@ -492,3 +492,5 @@ firmware_directories /vendor/firmware_mnt/image/
 /dev/mobicore             0600   system     system
 /dev/mobicore-user        0666   system     system
 /dev/t-base-tui           0666   system     system
+
+import /vendor/etc/init/hw/ueventd.okcar.rc
